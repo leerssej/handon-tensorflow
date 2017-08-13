@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "test_embedding:0"
+  metadata_path: "./tensorflow_logs/mnist_deeplabels_1024.tsv"
+  sprite {
+    image_path: "./tensorflow_logs/mnist_deepsprite_1024.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
