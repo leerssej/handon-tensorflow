@@ -1,0 +1,12 @@
+New Tech to Check Out
+* DC/OS - just check off the apps to add in
+    * including TensorFlow
+* Kafka
+* Amazon Kinesis
+* Microsoft Azure
+* Design First API
+* Swagger vs. / & Service Discovery
+* Schema Registry
+* zookeeper
+* ksql is thing - spark streaming kstream - k to work as a database
+* versus spark library
